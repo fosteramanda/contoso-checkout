@@ -1,0 +1,8 @@
+# CODEOWNERS for contoso-checkout
+# Everyone here is fictional.
+
+*                       @fosteramanda
+/src/payments/          @fosteramanda
+/src/cart/              @fosteramanda
+/docs/                  @fosteramanda
+/.github/               @fosteramanda
